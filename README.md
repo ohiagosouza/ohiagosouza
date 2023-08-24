@@ -23,7 +23,7 @@
 ##
 
 <div>
-  <a href="https://linkedin.com/in/ohiagosouza" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=%23FFF&color=%230A66C2"  target="_blank">
+  <a href="https://linkedin.com/in/ohiagosouza" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=%23FFF&color=%230A66C2" target="_blank">
 </a>
   <a href="https://instagram.com/hiagosouza.dev" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=Instagram&logoColor=%23FFF&color=%23E4405F" target="_blank"></a>
 </a>
