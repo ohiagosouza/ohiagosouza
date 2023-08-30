@@ -8,7 +8,7 @@
 
 <div>
   <a href="https://www.hiagosouza.com" target="_blank">
-    <img height=200em src="https://github-readme-stats.vercel.app/api?username=ohiagosouza&show_icons=true&theme=radical&hide_rank=true&include_all_commits=true"/>
+    <img height=200em src="https://github-readme-stats.vercel.app/api?username=ohiagosouza&show_icons=true&theme=radical&include_all_commits=true"/>
     <img height=200em src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohiagosouza&layout=donut&langs_count=5&theme=radical&include_all_commits=true" />
   </a>
 </div><br>
