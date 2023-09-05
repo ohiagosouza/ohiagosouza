@@ -1,9 +1,10 @@
 ## Hi, my name is Hiago 👋
 
-- 🧑‍💻 Studying Computer Engineering @ Faculdade Descomplica Digital
-- 🌱 Learning Javascript. Typescript next
+- 💻 Front-End Developer
+- 🧑‍💻 Studying Computer Engineering
+- 🌱 Learning Javascript.
 - 🧩 Looking to collaborate on frontend projects
-- 👤 Customer Focus and Customer Success
+  
 <br>
 
 <div>
